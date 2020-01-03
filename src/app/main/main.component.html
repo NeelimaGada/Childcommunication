@@ -1,0 +1,10 @@
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-6">
+            <app-component1 (Details)="sendData = $event"></app-component1>
+        </div>
+        <div class="col-6">
+            <app-component2 [user]="sendData"></app-component2>
+        </div>
+    </div>
+</div>

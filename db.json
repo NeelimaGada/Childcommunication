@@ -1,0 +1,63 @@
+{
+	"Persons": [{
+			"id": 1,
+			"firstname": "Gada",
+			"lastname": "Neelima",
+			"fullname": "Gada Neelima",
+			"mobileno": 8121881265,
+			"email": "neelima.gada@ojas-it.com",
+			"gender": "Female",
+			"location": "Hyderabad"
+		},
+		{
+			"id": 2,
+			"firstname": "Sable",
+			"lastname": "Suraj",
+			"fullname": "Sable Suraj",
+			"mobileno": 8790519812,
+			"email": "suraj.sable@ojas-it.com",
+			"gender": "Male",
+			"location": "Adilabad"
+		},
+		{
+			"id": 3,
+			"firstname": "Satya",
+			"lastname": "Pratyusha",
+			"fullname": "Satya Pratyusha",
+			"mobileno": 9701094592,
+			"email": "Satya.Pratyusha@ojas-it.com",
+			"gender": "Female",
+			"location": "Hyderabad"
+		},
+		{
+			"id": 4,
+			"firstname": "Parvathaneni ",
+			"lastname": "Bhanu",
+			"fullname": "Bhanu Parvathaneni",
+			"mobileno": 8121881265,
+			"email": "Bhanu.Parvathaneni@ojas-it.com",
+			"gender": "Female",
+			"location": "Hyderabad"
+		},
+		{
+			"id": 5,
+			"firstname": "Bandaru",
+			"lastname": "Naresh",
+			"fullname": "Bandaru Naresh",
+			"mobileno": 8121881265,
+			"email": "Naresh.Bandaru@ojas-it.com",
+			"gender": "Male",
+			"location": "Hyderabad"
+		},
+		{
+			"id": 6,
+			"firstname": "Akram",
+			"lastname": "Shaik",
+			"fullname": "Akram Hussain Shaik",
+			"mobileno": 8121881265,
+			"email": "Akram Hussain.Shaik@ojas-it.com",
+			"gender": "Male",
+			"location": "Hyderabad"
+		}
+	]
+}
